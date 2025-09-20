@@ -5,9 +5,7 @@ GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
-Itch.io
 LessWrong
-LiveJournal
 LushStories
 Mydramalist
 PepperIT

@@ -1,6 +1,4 @@
 APClips
-CyberDefenders
-Freelance.habr
 GNOME VCS
 Giphy
 HackerEarth

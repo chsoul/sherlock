@@ -1,5 +1,7 @@
 APClips
+Coders Rank
 CyberDefenders
+Freelancer
 GNOME VCS
 Giphy
 HackerEarth

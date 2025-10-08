@@ -1,19 +1,21 @@
 APClips
-DeviantArt
+Coders Rank
 GNOME VCS
 Giphy
 HackerEarth
-HackerRank
 Heavy-R
+LessWrong
 LushStories
 PepperIT
 PocketStars
 Reddit
 RocketTube
+RuneScape
 Splice
 Spotify
 Topcoder
 Weblate
 YandexMusic
 kaskus
+opennet
 svidbook

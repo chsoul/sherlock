@@ -1,8 +1,6 @@
 APClips
 Coders Rank
 DeviantArt
-Freelancer
-GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
@@ -13,7 +11,6 @@ Reddit
 RocketTube
 Splice
 Spotify
-Topcoder
 Weblate
 YandexMusic
 kaskus

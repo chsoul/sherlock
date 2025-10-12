@@ -1,6 +1,7 @@
 APClips
+Audiojungle
+Carbonmade
 Coders Rank
-DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
@@ -10,11 +11,12 @@ PepperIT
 PocketStars
 Reddit
 RocketTube
+Slack
 Splice
 Spotify
 Topcoder
+WebNode
 Weblate
 YandexMusic
-kaskus
 opennet
 svidbook

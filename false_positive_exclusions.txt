@@ -1,11 +1,7 @@
 APClips
-Coders Rank
-DeviantArt
 GNOME VCS
 Giphy
 Heavy-R
-LessWrong
-LushStories
 PocketStars
 Reddit
 RocketTube
@@ -15,5 +11,4 @@ Topcoder
 Weblate
 YandexMusic
 opennet
-programming.dev
 svidbook

@@ -1,4 +1,7 @@
 APClips
+BoardGameGeek
+BreachSta.rs Forum
+Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
@@ -6,11 +9,10 @@ LushStories
 PocketStars
 Reddit
 RocketTube
+RuneScape
 Splice
 Spotify
-Tiendanube
 Topcoder
 Weblate
 YandexMusic
-opennet
 svidbook

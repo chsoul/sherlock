@@ -1,8 +1,6 @@
 APClips
-Audiojungle
-Coders Rank
-DeviantArt
-Eintracht Frankfurt Forum
+BreachSta.rs Forum
+Freelancer
 GNOME VCS
 Giphy
 LushStories
@@ -13,6 +11,4 @@ Splice
 Spotify
 Weblate
 YandexMusic
-opennet
 svidbook
-xHamster

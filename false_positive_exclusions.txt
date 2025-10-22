@@ -1,6 +1,9 @@
 APClips
 BreachSta.rs Forum
-Freelancer
+CGTrader
+Coders Rank
+DeviantArt
+Eintracht Frankfurt Forum
 GNOME VCS
 Giphy
 LushStories
@@ -9,6 +12,9 @@ Reddit
 RocketTube
 Splice
 Spotify
+Velomania
 Weblate
 YandexMusic
+opennet
 svidbook
+xHamster

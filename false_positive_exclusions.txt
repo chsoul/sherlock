@@ -1,9 +1,7 @@
 APClips
-BreachSta.rs Forum
-CGTrader
+BoardGameGeek
 Coders Rank
 DeviantArt
-Eintracht Frankfurt Forum
 GNOME VCS
 Giphy
 LushStories
@@ -12,9 +10,7 @@ Reddit
 RocketTube
 Splice
 Spotify
-Velomania
 Weblate
 YandexMusic
 opennet
 svidbook
-xHamster

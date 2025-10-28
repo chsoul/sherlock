@@ -6,10 +6,10 @@ LushStories
 PocketStars
 Reddit
 RocketTube
-RuneScape
 Splice
 Spotify
 Weblate
 YandexMusic
+nnRU
 opennet
 svidbook

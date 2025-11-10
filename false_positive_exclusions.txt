@@ -8,11 +8,12 @@ LushStories
 PocketStars
 Reddit
 RocketTube
+Slashdot
 Splice
 Spotify
 Trovo
 Weblate
 YandexMusic
+eintracht
 opennet
-phpRU
 svidbook

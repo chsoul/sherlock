@@ -1,4 +1,5 @@
 APClips
+Academia.edu
 Archive.org
 Coders Rank
 DeviantArt
@@ -8,12 +9,11 @@ LushStories
 PocketStars
 Reddit
 RocketTube
-Slashdot
 Splice
 Spotify
 Trovo
 Weblate
 YandexMusic
-eintracht
 opennet
 svidbook
+threads

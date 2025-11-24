@@ -4,7 +4,6 @@ Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
-Itch.io
 LushStories
 Minecraft
 PocketStars
@@ -17,4 +16,3 @@ Weblate
 YandexMusic
 opennet
 svidbook
-xHamster

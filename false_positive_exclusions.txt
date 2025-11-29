@@ -1,9 +1,11 @@
 APClips
 Archive.org
-BoardGameGeek
+Coders Rank
+DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
+HackerRank
 LushStories
 Minecraft
 PocketStars
@@ -11,6 +13,7 @@ Reddit
 RocketTube
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
 opennet

@@ -5,7 +5,7 @@ DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
-LiveJournal
+Hubski
 LushStories
 PocketStars
 Reddit
@@ -15,5 +15,6 @@ Spotify
 Trovo
 Weblate
 YandexMusic
+opennet
 svidbook
 xHamster

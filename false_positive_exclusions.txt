@@ -1,11 +1,12 @@
 APClips
 Archive.org
+BoardGameGeek
 Code Snippet Wiki
+DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-GitHub
 Hubski
 LushStories
 PocketStars
@@ -15,6 +16,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
 phpRU

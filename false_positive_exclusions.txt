@@ -1,4 +1,5 @@
 APClips
+Anilist
 Archive.org
 Code Snippet Wiki
 DeviantArt
@@ -6,7 +7,9 @@ Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+HackerRank
 Hubski
+Itch.io
 LushStories
 Minecraft
 PocketStars
@@ -15,12 +18,14 @@ Reddit
 RocketTube
 Scribd
 SlideShare
-SpeakerDeck
 Splice
 Spotify
+Strava
 Trovo
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
+xHamster

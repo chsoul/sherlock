@@ -19,6 +19,7 @@ Splice
 Spotify
 Trovo
 Weblate
+YandexMusic
 mercadolivre
 opennet
 phpRU

@@ -1,5 +1,6 @@
 APClips
 Archive.org
+BoardGameGeek
 Code Snippet Wiki
 Fandom
 GNOME VCS
@@ -8,13 +9,12 @@ Giphy
 Hubski
 LushStories
 Minecraft
-Motherless
 PocketStars
+Rajce.net
 Realmeye
 Reddit
 RocketTube
 Scribd
-Slack
 SlideShare
 Smule
 Splice
@@ -22,5 +22,7 @@ Spotify
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
+xHamster

@@ -1,5 +1,6 @@
 APClips
 Archive.org
+BoardGameGeek
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -7,8 +8,9 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LiveJournal
 LushStories
+Minecraft
+OurDJTalk
 PocketStars
 Realmeye
 Reddit
@@ -24,3 +26,4 @@ YandexMusic
 mercadolivre
 phpRU
 svidbook
+xHamster

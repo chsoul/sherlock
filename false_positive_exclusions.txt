@@ -1,16 +1,15 @@
 APClips
 Archive.org
-BoardGameGeek
+Blogger
 Code Snippet Wiki
 DeviantArt
+Eintracht Frankfurt Forum
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+GitHub
 Hubski
-LushStories
-Minecraft
-OurDJTalk
 PocketStars
 Realmeye
 Reddit
@@ -24,6 +23,6 @@ Trovo
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
-xHamster

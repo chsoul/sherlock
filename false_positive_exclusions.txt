@@ -1,6 +1,7 @@
 APClips
 Archive.org
 Codolio
+DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -8,8 +9,6 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
-OurDJTalk
 Patched
 PocketStars
 Realmeye
@@ -19,9 +18,9 @@ Scribd
 Shelf
 SlideShare
 Smule
-SpeakerDeck
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic

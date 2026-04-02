@@ -1,7 +1,6 @@
 7Cups
 APClips
 Archive.org
-Audiojungle
 Codolio
 DeviantArt
 Discord.bio
@@ -11,13 +10,13 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
 Rarible
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare

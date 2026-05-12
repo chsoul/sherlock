@@ -1,8 +1,6 @@
 7Cups
-APClips
 Airliners
 Apple Discussions
-Archive.org
 ArtStation
 Bandcamp
 Codolio
@@ -13,9 +11,8 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
-LushStories
+Minecraft
 Motherless
 Patched
 Rarible
@@ -24,14 +21,15 @@ Reddit
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
 Splice
 Spotify
 TryHackMe
 Velomania
+WebNode
 Weblate
-YandexMusic
 dailykos
 igromania
 interpals
@@ -39,4 +37,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster

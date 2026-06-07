@@ -5,18 +5,16 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
+Dribbble
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
 Patched
 Pornhub
 Rarible
@@ -29,7 +27,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Strava
 Trovo
 TryHackMe
 Velomania

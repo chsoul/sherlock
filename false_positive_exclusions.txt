@@ -11,17 +11,13 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Houzz
 Hubski
 LessWrong
 Odysee
-OurDJTalk
 PCGamer
 Patched
-Pornhub
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -45,4 +41,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster

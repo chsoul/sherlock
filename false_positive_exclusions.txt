@@ -13,13 +13,14 @@ Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
-Hive Blog
 Houzz
 Hubski
 LessWrong
 Odysee
 PCGamer
+Patched
 Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -27,7 +28,6 @@ Replit.com
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Splice
 Spotify

@@ -15,8 +15,6 @@ Hubski
 LessWrong
 Odysee
 PCGamer
-Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -27,10 +25,10 @@ Shelf
 SlideShare
 Splice
 Spotify
+TikTok
 Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM

@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -19,14 +18,13 @@ Hubski
 Instapaper
 Odysee
 PCGamer
-Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
 Replit.com
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
@@ -44,7 +42,7 @@ hunting
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
-xHamster

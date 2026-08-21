@@ -12,10 +12,13 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
+Gumroad
 Hashnode
 Houzz
 Hubski
 Instapaper
+LushStories
+Minecraft
 Odysee
 PCGamer
 Rarible
@@ -24,7 +27,6 @@ Reddit
 Replit.com
 ReverbNation
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
@@ -42,7 +44,6 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook

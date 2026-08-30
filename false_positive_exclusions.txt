@@ -1,11 +1,11 @@
 7Cups
 APClips
 Airliners
+Anilist
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-BoardGameGeek
 Championat
 Chatujme.cz
 ChaturBate
@@ -35,6 +35,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trakt
 Trovo
 TryHackMe
@@ -51,3 +52,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster

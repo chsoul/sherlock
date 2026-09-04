@@ -1,17 +1,19 @@
 7Cups
+APClips
 Airliners
+Anilist
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
-F3.cool
 GeeksforGeeks
 Giphy
 Hashnode
@@ -19,13 +21,12 @@ Houzz
 Hubski
 Instapaper
 ObservableHQ
-Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
 ReverbNation
-RocketTube
 Scribd
 Shelf
 SlideShare
@@ -47,3 +48,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster

@@ -1,26 +1,19 @@
-7Cups
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Bandcamp
-CGTrader
 Championat
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
-Envato Forum
 GaiaOnline
 GeeksforGeeks
-Giphy
 HackerNews
 Hashnode
-Houzz
 Hubski
 Instapaper
-Itch.io
-Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -45,6 +38,7 @@ fixya
 hunting
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 social.tchncs.de

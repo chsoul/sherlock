@@ -1,4 +1,3 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -10,12 +9,11 @@ DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
-GitHub
 HackerNews
 Hashnode
 Hubski
 Instapaper
-Minecraft
+LiveJournal
 ObservableHQ
 Odysee
 PCGamer
@@ -24,22 +22,18 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
 TryHackMe
-Velomania
 Vero
-Weblate
 YandexMusic
 authorSTREAM
 dailykos
 fixya
 hunting
-igromania
 interpals
 mercadolivre
 opennet

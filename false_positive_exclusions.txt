@@ -1,8 +1,7 @@
+APClips
 Airliners
 Apple Developer
-Apple Discussions
 Archive.org
-Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -10,6 +9,7 @@ DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
+GitLab
 HackerNews
 Hashnode
 Hubski
@@ -17,6 +17,7 @@ Instapaper
 ObservableHQ
 Odysee
 PCGamer
+Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -26,7 +27,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero

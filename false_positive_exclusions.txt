@@ -9,6 +9,7 @@ DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
+GitBook
 HackerNews
 Hashnode
 Hubski
@@ -26,6 +27,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
